@@ -3,3 +3,4 @@ My 100 Days of Code journey with Python — 100 hands-on projects covering progr
 Day 1 - Brand name generator ✅ done
 Day 2 - Tip calculator ✅ done
 Day 3 - Treasure Island Project ✅ done
+Day 4 - Rock paper Scissors ✅ done
