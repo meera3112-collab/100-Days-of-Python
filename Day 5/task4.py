@@ -63,11 +63,9 @@ If you get stuck, check the hint below for what to Google. '''
 
 choice = int(input("Which version do u want? type 1 for Easy and 2 for Hard: "))
 if(choice==1):
-    print(password)
     print(f"Your password is: {''.join(password)}")
 else:
     random.shuffle(password)
-    print(password)
     print(f"Your password is: {''.join(password)}")
     
 
