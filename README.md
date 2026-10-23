@@ -4,3 +4,4 @@ Day 1 - Brand name generator ✅ done
 Day 2 - Tip calculator ✅ done
 Day 3 - Treasure Island Project ✅ done
 Day 4 - Rock paper Scissors ✅ done
+Day 5 - Password Generator ✅ done
