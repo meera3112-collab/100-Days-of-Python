@@ -5,3 +5,4 @@ Day 2 - Tip calculator ✅ done
 Day 3 - Treasure Island Project ✅ done
 Day 4 - Rock paper Scissors ✅ done
 Day 5 - Password Generator ✅ done
+Day 6 - Reeborg's world ✅ done
