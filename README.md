@@ -7,3 +7,5 @@ Day 4 - Rock paper Scissors ✅ done
 Day 5 - Password Generator ✅ done
 Day 6 - Reeborg's world ✅ done
 Day 7 - Hangman game ✅ done
+Day 8 - Caesar Cipher ✅ done
+Day 9 - Silent Auction ✅ done
